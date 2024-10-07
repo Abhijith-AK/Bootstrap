@@ -1,0 +1,27 @@
+
+
+.header{
+    height: 100vh;
+    background-image: url('https://responsive2356.netlify.app/img/182428240217.jpg');
+}
+
+.head{
+    height: 600px;
+    width: 100%;
+}
+
+.head h1{
+    font-size: 5rem;
+}
+
+hr{
+    color: white;
+}
+
+.services{
+    background-color: #0000;
+}
+
+section{
+    background-color: #0000;
+}
