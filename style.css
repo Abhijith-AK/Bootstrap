@@ -25,3 +25,11 @@ hr{
 section{
     background-color: #0000;
 }
+
+ul{
+    list-style: none;
+}
+
+i{
+    color: #fff;
+}
